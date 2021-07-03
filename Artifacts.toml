@@ -1,459 +1,459 @@
 [[ITSOL_2]]
 arch = "aarch64"
-git-tree-sha1 = "e75443b6b7414e8abf37591bb1463a9e99ce25ae"
+git-tree-sha1 = "41cead90ecb13fd3ac8d3124eadff4c2f03b7d49"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[ITSOL_2.download]]
-    sha256 = "b172fe91493c15b2497b0f7acd76bae11ccf7cbc036b7d7702c9f091732c8f6f"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "e02361024c67605a0ed0fa590f55e3d1818cb68c10e60b8572b900eec1b941c1"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "aarch64"
-git-tree-sha1 = "fbeccb707f106080f4c9bc4a43333508d9d95fca"
+git-tree-sha1 = "dac86fbc353ec1b23c2d53a963cbf731dbb1ad51"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "185ecab425c64bdfa10e9c32aeed6abbfc95b72425fce0a82d8f0a02b793fd05"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "3c4128f9b98ee28ba32633db3e3cd92ba1e68026a3b4d760ad5f9e7a0775c929"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "aarch64"
-git-tree-sha1 = "ce3bd936cb52316cf9567d5ea03dad13df798b3c"
+git-tree-sha1 = "f61497a0c72ca304f6a5d681a112b0038e5cc0f0"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "8c864da1339a4ff0993ee29b532fc09dc0bc5fc5e28321f61156e5d2dcd7e6d4"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "8668044ce70fe01076fc4996e962a0d139eaee521d1bb8ed954cafffb32cb636"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "aarch64"
-git-tree-sha1 = "8e9ccc8997072ebc462cb5ffe0ecfdd62ab155dc"
+git-tree-sha1 = "a80e45a488ac4ce3c162542f32e5284e9776df10"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "ff38eb204110582950c8f6bd03457196ac8cf86b50b44c78453b852b47830460"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "17a486fd618f7a3c39ef4ce05ba7d55f42bff6f185b7c45fde1fab9dd0e7d6ef"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "aarch64"
-git-tree-sha1 = "1712a99a684ddb4a9adf1c4c113939e867ded7eb"
+git-tree-sha1 = "68cf09bba8de8436f946cddf89dab72d1f6297e5"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "d18413c9ca02dbe99db50065daec3bf1aadf7aefd1040eef8fdcb7e82c64bf82"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "8a56543b968fa95739b7d0eac130558ed810f4e77fa47aa3ad2098aa06b4bf0f"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.aarch64-linux-musl-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "aarch64"
-git-tree-sha1 = "2e15118cbed5266d492c96ab7482c2fc7c591bc6"
+git-tree-sha1 = "8b696af08ba8849510fb43aa333ee72073d3dee8"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "4d9ca73eb2aaf0c26e515824cf84a1a85cce83f782e6024ed691872a146e4916"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "8b1715da26782ad078cef7545570bb48758aa70bf9da1e51c8584455dbdf279e"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.aarch64-linux-musl-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "aarch64"
-git-tree-sha1 = "e610a3a25bfb32b8a40c81ce5df2f3e05c94f428"
+git-tree-sha1 = "b4a5bedfe9323669fc380d687b745fa16460f3a7"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "99c6c4582927c458148a8794136bb3ab4829c965c97da3224c5bf517fec95967"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "be6f0ebedd8a1021cba1b1e0a051888ef751fa9a216337f47f7e863768d0aa4f"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.aarch64-linux-musl-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f10952982de09934e966bd3a0f4dcaeaf7a5494e"
+git-tree-sha1 = "c872a59c444c02f926e01c126e2b27aadafbecb2"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "fac1376c3059742532c7d757138b44c25aa266fe9a7ca55d499700892d857b81"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "29e576b9b51a9c0c665334b4a66655ebebb6066c5551724d6161144276dff999"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "832fef0d444a8b8bacaeef2fe7d09779983e6ac7"
+git-tree-sha1 = "5d3cf3b0f1b0f6cc69f355853a71d78d741100a3"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "4c050616b58310c3463781263467dba4278112bf14a7445e09994e7eb6396d37"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "cea4b0ff8bff9c9c1b1f771b174bfee70af368a982f73924642300df3bb13bf7"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "56c00b51219d7406ffc7011ba66e328cc31bea67"
+git-tree-sha1 = "5e7e5e09dbcd7da8d32811242b3aec99ef605705"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "463dee3d1bb081756984c9d5f410bcaab47f76f0803badc74e287eadb1f04429"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "cb6874ca3aef9bf6a75f104848915ae1eb4ca3e39b88c8a3c91870e32e8aa505"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "258269959a76c1047a5f5ecdbdb3c67dc7b68f14"
+git-tree-sha1 = "fa44db8f6a7e0e902cbb76ca58658a9cec9eaff3"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "07605a3fadaf1dec4d9a42ef0af915930c2c27d9bc4d83d7ed46c43c15247ee0"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "b4c6869183df2f2366574a7898829442fb6e54e1d0074e1c18e0d5070bf48fa3"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e9fb50909f214e686e0f19c07ef84cd84d20ad54"
+git-tree-sha1 = "007b68461a30b457787365c419c0979e57b40ffd"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "cfbbb296c4ff53eb879a1595afb0a88ea82cd1f4046b3bcec445ad53ef024c80"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "e374647d882e9cd5641cc5a6f0f56a03da97862fda7e30fd02b557f5ca9f5f8c"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8e78c473fb26f4c026a1971debac2a0be88e4217"
+git-tree-sha1 = "055da2f034253af734afa82a2c3b339e947292a9"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "31a95e9d5c157ff7d7d4fd59ba354b65f06ac43a07799d1bd0c8bfd14ef69ff1"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "6564f331534bb588f906cd50a68d37e3ae1022cb30c8ae4b55a54a09df2b6570"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a6c74423008fd78dd80a4408cba62900d071e0f4"
+git-tree-sha1 = "c0b0ba3bbc57fe81306158365fba431304cc1ef0"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "a3366fb7158d20332dfe409eff6fa2fe5f69020affb6b70146b6d21d681a7873"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "13246c5de8c945a5459d9011e5df659fabe05b776b55d14af19e4852983b9045"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f721053cadb5ac727c4022c777e7eca8a87cad3b"
+git-tree-sha1 = "0c59d89f226f31f1d1ee029354c16fed8a12b02d"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "590a30648711361f1a54e7496349c1540350937739fb285898217b4072411e7f"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "1e80c71ad49c2d6ce91fecd0f928fa953dfc85cbecc8ce4e5441ebe9cad2ff4d"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0b8101479441187761ff9706d43b4822950f520e"
+git-tree-sha1 = "7b7dad340332bc9cec49d03476bc541dce180517"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "6109339cce42f3e3f246a6ae54954aeb70ac399a80ecb5f5b9a743dcbad40edc"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "50bbf7e7013d7afcf947aeb4c749a2083c68a2961e994077acd2e1f86d8d34c6"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "67ac27c231b64964e6f3ed8828fb0be4023c3b99"
+git-tree-sha1 = "7a509f19045ffbffccd17aa0340ae0e3ae6e2662"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "bdfadcb2a96b0d2f36b2f3e73efc5e23c865b2eaa8a00b6a6135846c4e8f174c"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "94a08d936b368049c6302c7fa81b8b500e6f2f3de3496062b0aa3c3ed19c1347"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "de3c6808d79fd5e9f32f01e7aeae95f66e531852"
+git-tree-sha1 = "f8feb8cdf6cc1a27c4fc5130eab3540b9c41d661"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "6b8513a75f4de08cc109a8256084a59c229ae3a8f5a590d55d8dc4755fa79537"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "5fbfce9f08385a06356c6e7b98cec4de54ea3147be80ac57737802de93ff91dd"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4c45a91ed060d3ab0b60cff980710d9a757679e2"
+git-tree-sha1 = "649ab7277167ca4c69b82bffbe17b5b10ad3fd8c"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "4bbbd8e6b810eb122f4edc060fc7a1486f34fa3bdea0813a98970ae5def15d82"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "b88102d03121d40aa1928de85fbeed07c0e10f9e8a99116852b42eb8d1ae99b8"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "i686"
-git-tree-sha1 = "4d27e7f92067242db6bcc5affb4e70c44d549596"
+git-tree-sha1 = "47facf0e35e3de5636b05720b9ad8ec17d05a03f"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "7feda78bdbc8c12adf54e9c5356bcbbce396ac14fbcd68eb55d00727206f80ab"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "79286c4bda6dede0e58d5d303ba0cb7a6d8763914ede16ffa681649963647b7b"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.i686-linux-gnu-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "i686"
-git-tree-sha1 = "fad0be443006ec01cc8f1616b7812f8513bcab47"
+git-tree-sha1 = "6dd3f88b5c364c472b6f0b8993b094150cb72f75"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "298fa613c7eea6456bd9f74e7e91d42c25b6d6111a8eff4c1110850be8202a50"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "ce3593ee9ba2909b68938f8969d0152966874dedef7fef21a506b68ca67740c7"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.i686-linux-gnu-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "i686"
-git-tree-sha1 = "b5f47d16d8c859345a510c589d098c14d1729fd0"
+git-tree-sha1 = "a0ee57b3894e73806213d33507b19ac0c938f7de"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "d3276d61092433402295f8d2ab0690c8b00799fa324ff346d3a2269c3418998f"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "5e9f5aa5c9c1526bce1c45cedd9a8514c2194ea92af21fb69bea85d8b24ad1d6"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.i686-linux-gnu-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "i686"
-git-tree-sha1 = "dd85c7e89222fef87c76c014d032e34da3056055"
+git-tree-sha1 = "801d1aa0533b6fcc3879257e328b4d3451f2e1c5"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "a2d1577f8155cc3ea8ebf32d560786228e933b28e7c74402ac84ce93bb3d2acd"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "b6a0ad5acd4cdf7ea0ac2b83275a5ca09cb0bc5208169626da86ca31093a6efe"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.i686-linux-musl-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "i686"
-git-tree-sha1 = "f526fee5de20c410ea2d90543d3c8d8b2fa9bbac"
+git-tree-sha1 = "b9407579f88ba00fd80551f95e8d090e08596802"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "5a8137d0ca0bace8c5b3ff7a1de7f9a0f3f9544f735b39c7229340558d9177c0"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "5037566e61aadf1454f687b72bc0dd0ddd532b36fb66fceffa194d167aaade07"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.i686-linux-musl-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "i686"
-git-tree-sha1 = "b036675ce3adfdbff608eaeea29123889bb5d33b"
+git-tree-sha1 = "db8320dc8eb717ab046cc5278dd9bcb651fde87b"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "ef3137f24c4d6ff8fed0318ddcfeaeb683dade292ef314fe562bb59a670b8904"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "5e2407bb7c04cd8e3d9ff943daa42a85df22364bfafde09c2a5aeebc1e487eea"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.i686-linux-musl-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "i686"
-git-tree-sha1 = "4c0bf480ba1b9b48d138a5e44b97b5b1b1bf3406"
+git-tree-sha1 = "bbf4773178cdd979370b69c77854a29fe5ec3eec"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[ITSOL_2.download]]
-    sha256 = "5295bb121e6a45a06481c0faf872c5fcc8e9ac93ac1a952fc4aceec6d6dd7d31"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "836b37e7f6e6e7f11dcb84f6320adbef4fbc3118fb5c1787994463d81d5ef75d"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.i686-w64-mingw32-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "i686"
-git-tree-sha1 = "c81fb018304f3153bb04bc161533c36df2173d00"
+git-tree-sha1 = "daa07dd575299b602504ea7d6fdd4c693dfe0150"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[ITSOL_2.download]]
-    sha256 = "dd71dc88afbdca9f9fb6c86c8d3a00e8a6ad26af21467ef031f68ad46b7f8c6c"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "138261978e9afeee72a0d8673e28eaef67bbcf79392d912036a784ac5e51213d"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.i686-w64-mingw32-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "i686"
-git-tree-sha1 = "726c67a4da8e05df968c6d4bc390c43df6913b98"
+git-tree-sha1 = "a042a4e8ba7634a2844ff3cc356e8603e6c56c82"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[ITSOL_2.download]]
-    sha256 = "26bc628ea0a6e4fe1bb07238bb548d1c4d9379bc1547ed39261eea24fc013bee"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "d5ef77f20e84217d25fce41ac12d0dd95aace255b453c3faa3e6b0a27936b2c0"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.i686-w64-mingw32-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "powerpc64le"
-git-tree-sha1 = "e2be997587fee1ab700c4a71e0a53281ef6f5339"
+git-tree-sha1 = "5e2c565e2798157f7701617147b57949a1fc9913"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "cf11301a6a92c52f95b72058a782a388077835528ee5ebe19be669dc28f4ad30"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "b65f4c6078488fe3e313a2aacdddfffa24ab58d0d5cc70597b3eaf5566d78c37"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "powerpc64le"
-git-tree-sha1 = "3c4050baed20c6c5c5ec5f51d7e066f348e69a6f"
+git-tree-sha1 = "bb2923e1ec234cb68cc7204ed6e90406cdb3b50e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "425db6f931c68495d199c8981b4ddc192c7dd363a73b031b0880b0ab1f56176b"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "240e81f122db6eb2c13abb2f9146fa715aed23ca2f97f8d837049c04534522b7"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "powerpc64le"
-git-tree-sha1 = "79ee372f85440d7ee4299b7d735f9cfcfa507dee"
+git-tree-sha1 = "dbac678439d8e9e89d8a4c2c354bf90db025b913"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "ac6300ca89dbdaca430ad9b33a2ffd4dd2a03b56c9ee3afc68028ad722478155"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "a3f82143ace9fa5852cafd6255b46eba1587c84b77c89d4efa1fd056bd428edc"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "21175a97ac689fcd0a2d3f493fe43a6145765508"
+git-tree-sha1 = "e6ad1d0a414ae3c8969df9504bf32458639134c5"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[ITSOL_2.download]]
-    sha256 = "24b25c456b634fd7dafa4cbc2c42719026041bfffa838b3aa1df16308a3bf6f0"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "358b1bc773d194b451a941da18e61e97090dc08c366d22951534f2074183ae75"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "2865c14de64e8246d0c6766a2fafe1f7f518f61b"
+git-tree-sha1 = "903a7bf59dce1cbdf284aba7bba373ddd4946c7e"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[ITSOL_2.download]]
-    sha256 = "9ad5a002dcb60c1574a872eb06aa60fa274afdfaaaddf42ac34d7af18d1168c0"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "66ffba8800a22ad01d250b132f0a2c74b4750bb3113b8c98caf75ed1d81bad34"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "1c5eecff7767dbc2cfbf46570d15888ea51c81e5"
+git-tree-sha1 = "a23f3ccec3e773d7d8f72375269047befe9f64f2"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[ITSOL_2.download]]
-    sha256 = "d8cb4d79e5e463e66d3ac10925d3cf73c0a030b6237f640d52ab3e3417dfde7a"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "4b68896b14753db35794e121b6536d98fb7223b7ddd13df2b52b6e911e8bca4f"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "1acb9fdc674c10293a780ec0d7ceac4b037d9760"
+git-tree-sha1 = "85960a5d8d837c8dc46144d0fdeb226ca1d8bda2"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "5b23f436957e3c6b67592d0b74a3d02f0fb78086b95f71a819c8722f04f8c24d"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "50a7df82b1172ed2e42bb98a105bf33120817bca8cc921e58022eef9c79fed6f"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "0ff9d1cf4ea7f8d184cb97e053e9d6e925f2bad1"
+git-tree-sha1 = "c94d403dac8d2562fd2f1cc62e1b851eeb1dbcb6"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "2af35a82474507a9b92fa6048b07a6c74a0a1d8d42128baf9aeb14037064cbff"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "584185bb353f5fef0daa69239700f8e399cb3080da3af3eaefc346de92834f7b"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "11b457bae768c0eaf950152d8002e5256d93e8fb"
+git-tree-sha1 = "de684868c58a039fa319eb27033e6c37f971f989"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "31e1b3a079f23185db60ec74777941432819046d8c3f683f69d97f0d1bace604"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "69ee3f09bd52bf02e347e5eb5dcf71ceeeff6919cd91b64a2eb1e65936371e65"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "e210cf049fc237dfd44dadaa8fb60d0171e21831"
+git-tree-sha1 = "c8ff2e3e548be40e14aa8d8d56945635d424c2d1"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "01f0910025ab4a87ed5ca1572d1e408bd929da9223b4baf108b15becea4a14b1"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "a8333c04042c35e0eef6f4d75572908f9c07f2c7f005e4a13ad45d245ef79187"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-linux-musl-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "ee32895931a399d8525288d1d0ce61a1414572f6"
+git-tree-sha1 = "4068bb4ab55eb73e58f6f5460de68d403c77c96a"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "ec895611d8cf6b3cc8da0ef493ca8859da9d8e6586df80432d639cbce1ef12b0"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "8c4044c092159500f7e98edc886eecba770fd120f9e7173cbd92c47933f09ccf"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-linux-musl-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "633c0b59ff5cb5b7723bbd5b95e38a3066f393f9"
+git-tree-sha1 = "44b99b57b71a394af984a31259543d083800233f"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ITSOL_2.download]]
-    sha256 = "bdc8e3fef1ababb192a40988874696b51ed678d6dc49db4ffc8bb9c59ffbda8c"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "140162c5627af3a6f059a71a52c301d2a6977875a4674bf59ad0c3828a46fa03"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-linux-musl-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "25cd651e32ca2d715d1332d7f482826ebdd8b03b"
+git-tree-sha1 = "7fac6aadf775a2cf64d516befada9fe000af193d"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[ITSOL_2.download]]
-    sha256 = "bdfa9a0eda4b1a0af56af01bc56dfeb190adaffbdae9b0974155cdf9ebaecc2a"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "52261997e04c18762b26674b4d86ff54a14878af27f59148b20aa7a9966f6cf4"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "abe2a63b3d320f1c9bc8f13bc72969b6ac8a2ae0"
+git-tree-sha1 = "c20ed94ba3070c3406c7223dc8b91a2067026811"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[ITSOL_2.download]]
-    sha256 = "201db5a7d948926660377d94089f6df0ae3db2c7b33688ffe34e35fbe7ccda8b"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "865d04f1d7258a8bf2439d393af74b5e74995e0233f1d6346448b36533964dec"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "d3d78d7080d7ee63388b42a4eb06020ebb10bbcb"
+git-tree-sha1 = "cae37d5932e0f68896422547445240ccb395b3ef"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[ITSOL_2.download]]
-    sha256 = "a2e3c2195958710aa40dd7cb3970a8fe670248e666c602007ad3c205fdba9e6f"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "185814b43fd3004303d256531d2ca1fe8dc22f1dc0821c57066469e1e43d632e"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "a77152784e1386c5750504e0e9d9c4bc06dd29a0"
+git-tree-sha1 = "467c865f07fe3d08d54c4d4b118ea354b3aeb04c"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[ITSOL_2.download]]
-    sha256 = "f4bf77363f95f6ef7330ba3a36bde047bd0f34433c2873a4d1ba07d636d82907"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "0f26a53de0cddeb8cf62971235e60b278bb5758b247ff44d7e46d5f5a2675ed1"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "3df2fd3f32558a30160d26b607e50037a43f5e30"
+git-tree-sha1 = "8cbedb36f02035bc61389acc7a27bb7661790f0d"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[ITSOL_2.download]]
-    sha256 = "c7c1c94958ab7c01a149e841a76d11068e8957f986eeff9f4eb6ce1a5b8496f9"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "6dd063f02655ba44dc8676beffcdc5208ea5a2a9056a364155de69343de7596b"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[ITSOL_2]]
 arch = "x86_64"
-git-tree-sha1 = "11cba86fa41d8b7c4dd51eb27b105ad64522e865"
+git-tree-sha1 = "47b83cb89f665c421af3a05420f2b43ef948c6ee"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[ITSOL_2.download]]
-    sha256 = "9fbc5392ccaba1bf39aadacdb009f31e309813e0e4fa4d86ea2c7243d022abcc"
-    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.0+0/ITSOL_2.v0.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "8998ba431d5bd3b535bf79ba498a6d1892510b71f19f58baa190e77283825278"
+    url = "https://github.com/JuliaBinaryWrappers/ITSOL_2_jll.jl/releases/download/ITSOL_2-v0.1.1+0/ITSOL_2.v0.1.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
